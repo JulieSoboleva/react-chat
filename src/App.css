@@ -251,7 +251,3 @@ ul {
   clear: both;
   height: 0;
 }
-
-.fa-circle:before {
-  content: "\f111";
-}
